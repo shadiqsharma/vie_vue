@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "WE",
+      "second": "Hotel Langkawi"
+    },
+    "content": "Your Budget Friendly Hotel with a Great View!",
+    "image": "/img/arch/slid/whs_landing.png"
+  },
+  {
+    "id": 2,
+    "title": "Maha Tower Langkawi",
+    "content": "THE JEWEL OF LANGKAWI’S SKYLINE",
+    "image": "/img/arch/slid/whs_landing2.png"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Tower",
+      "second": "View Room"
+    },
+    "content": "Our signature Tower View Room.",
+    "image": "/img/arch/slid/whs_landing3.png"
+  }
+]
