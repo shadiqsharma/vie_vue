@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navbar ref="navbar" lr="logoRef" />
+    <NavbarArch ref="navbar"  />
     <div class="wrapper">
       <ProjectDetails2Header :projectHeaderData="ProjectDate" />
       <ProjectIntroduction :projectIntroductionData="ProjectDate.intro" />
@@ -39,10 +39,10 @@ export default {
     window.addEventListener("scroll", () => {
       if (window.pageYOffset > 300) {
         navbar.classList.add("nav-scroll");
-        logo.setAttribute("src", "/img/logo-dark.png");
+        logo.setAttribute("src", "/img/logo_we_hotel.png");
       } else {
         navbar.classList.remove("nav-scroll");
-        logo.setAttribute("src", "/img/logo-light.png");
+        logo.setAttribute("src", "/img/logo_we_hotel.png");
       }
     });
   },

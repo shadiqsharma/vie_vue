@@ -6,8 +6,6 @@
     <Services6 />
     <Works6 />
     <CaseStudy />
-    <Team3 />
-    <TestimonialsArcho />
     <LatestNews />
     <ContactArcho />
     <FooterArch />
