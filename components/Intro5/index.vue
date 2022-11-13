@@ -36,7 +36,8 @@
                 </div>
                 <div class="col-lg-4 valign">
                   <div class="explore">
-                    <a href="#0">
+                    <a href="https://book-directonline.com/properties/wehotellangkawidirect
+">
                       Book Now
                       <i class="ion-chevron-right"></i>
                     </a>
