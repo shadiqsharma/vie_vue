@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-md-10">
           <div class="sec-head text-center">
-            <h2 class="wow fadeIn" data-wow-delay=".3s">Projects</h2>
+            <h2 class="wow fadeIn" data-wow-delay=".3s">Promotions</h2>
           </div>
         </div>
       </div>
@@ -14,9 +14,9 @@
         <div class="filtering col-12">
           <div class="filter custom-font wow fadeIn" data-wow-delay=".5s">
             <span data-filter="*" class="active"> All </span>
-            <span data-filter=".brand">Interior</span>
-            <span data-filter=".web">Architecture</span>
-            <span data-filter=".graphic">Residential</span>
+            <span data-filter=".brand">December</span>
+            <span data-filter=".web">January</span>
+            <span data-filter=".graphic">February</span>
           </div>
         </div>
 

@@ -6,7 +6,6 @@
     <Services6 />
     <Works6 />
     <CaseStudy />
-    <LatestNews />
     <ContactArcho />
     <FooterArch />
   </div>

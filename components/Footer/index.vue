@@ -100,8 +100,8 @@
             </div>
             <div class="copy-right">
               <p>
-                © 2022, Vie Template. Made with passion by
-                <NuxtLink to="#0">ThemesCamp</NuxtLink>.
+                © 2022, We Hotel Langkawi. Made with passion by
+                <NuxtLink to="#0">Faux Fox Studios</NuxtLink>.
               </p>
             </div>
           </div>

@@ -16,7 +16,7 @@
           <div class="container d-flex align-items-end">
             <div class="cont">
               <NuxtLink to="#">
-                <span>Case Study</span>
+                
                 <h6 class="main-color">{{ slide.date }}</h6>
                 <h4>{{ slide.title }}</h4>
               </NuxtLink>
