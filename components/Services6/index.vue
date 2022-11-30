@@ -17,7 +17,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/sqw.jpeg)"
         >
           <h6 class="numb">02</h6>
           <h5>STANDARD QUEEN ( WINDOW )</h5>
@@ -30,7 +30,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/std_twin.jpeg)"
         >
           <h6 class="numb">03</h6>
           <h5>STANDARD TWIN</h5>
@@ -43,7 +43,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/towerview.jpeg)"
         >
           <h6 class="numb">04</h6>
           <h5>TOWER VIEW</h5>
@@ -56,7 +56,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/suite.jpg)"
         >
           <h6 class="numb">05</h6>
           <h5>SUITE WITH JACUZZI</h5>
@@ -70,7 +70,7 @@
       <div class="row justify-content-center">
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/fmlyqnw.jpeg)"
         >
           <h6 class="numb">06</h6>
           <h5>FAMILY QUAD ( NO WINDOW )</h5>
@@ -83,7 +83,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/fmlyq.jpg)"
         >
           <h6 class="numb">07</h6>
           <h5>FAMILY QUAD ( WINDOW )</h5>
@@ -96,7 +96,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(img/rooms/fmly3.jpeg)"
         >
           <h6 class="numb">08</h6>
           <h5>FAMILY TRIPLE</h5>
@@ -109,7 +109,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/exec.jpeg)"
         >
           <h6 class="numb">09</h6>
           <h5>EXECUTIVE ROOM</h5>
@@ -122,7 +122,7 @@
 
         <div
           class="col-lg col-md-6 item bg-img"
-          style="background-image: url(/img/rooms/s6.jpg)"
+          style="background-image: url(/img/rooms/execfmly.jpeg)"
         >
           <h6 class="numb">10</h6>
           <h5>EXECUTIVE FAMILY</h5>

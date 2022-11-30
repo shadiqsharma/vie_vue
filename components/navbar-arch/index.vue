@@ -78,16 +78,7 @@
             <a class="nav-link" v-scroll-to="'#about'">About </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" v-scroll-to="'#works'"> Works </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" v-scroll-to="'#team'"> Team </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" v-scroll-to="'#testimonials'"> Testimonials </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" v-scroll-to="'#blogs'"> Blog </a>
+            <a class="nav-link" v-scroll-to="'#works'"> Promotions </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" v-scroll-to="'#contact'"> Contact </a>
